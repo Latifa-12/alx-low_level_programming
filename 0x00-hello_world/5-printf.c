@@ -5,7 +5,7 @@
  * main - print the string in the put function
  *
  *Decription: using the main function
- *this program prints with a proper grammar,but the outcome is a piece of art
+ *this program prints with a proper grammar,but the outcome is a piece of art,
  *Return: 0 
  */
 int main(void)
