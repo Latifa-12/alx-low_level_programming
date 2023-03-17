@@ -2,9 +2,11 @@
 #include <stdio.h>
 
 /**
- * main - Entry point
+ * main - print the string in the put function
  *
- * Return: Always 0 (Success)
+ *Decription: using the main function
+ *this program prints with a proper grammar,but the outcome is a piece of art
+ *Return: 0 
  */
 int main(void)
 {
